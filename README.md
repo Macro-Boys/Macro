@@ -1,4 +1,5 @@
 # Macro
+<p>Scripti vaatii <a href="https://www.autohotkey.com/download/ahk-v2.exe">AutoHotkey V2</a></p>
 <p>Scriptimme tarkoitus on automatisoida ROBLOX peli.</p>
 <p>Järjestelmä vaatimukset:</p>
 <p>1920x1080 100% Scale</p>
